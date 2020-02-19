@@ -1,2 +1,0 @@
-disp('ok')
-disp('bien')
